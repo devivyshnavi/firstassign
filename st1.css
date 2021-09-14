@@ -1,0 +1,75 @@
+
+.bg{
+    background-color: gainsboro;
+    box-sizing: border-box;
+   margin:5px;
+}
+.bg-img{
+    height: 500px;
+    padding-bottom: 10px;
+    margin-top: 15px;
+}
+.shopping-heading{
+    color: aqua;
+    font-size: 42px;
+    font-style: italic;
+    font-weight: bold;
+}
+.feat{
+    padding-top: 20px;
+    font-weight: bold;
+}
+.a-txt{
+    color:black;
+    padding-left:15px;
+    padding-right: 15px;
+}
+.price{
+    text-align: center;
+    color: red;
+}
+.disp-row{
+    display: flex;
+    flex-direction: row;
+}
+.box{
+    margin: 3px;
+    border: black solid 2px;
+    color: darkorchid;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    padding: 5px;
+}
+.im{
+    background-color: white;
+    height: 100px;
+    width: 200px;
+    margin-bottom: 25px;
+}
+.im1{
+    margin-left: 30px;
+    background-color: white;
+    height: 120px;
+    width: 100px;
+    border:solid 1px gainsboro;
+}
+.crd{
+    text-align: left;
+    background-color: white;
+    margin: 3px;
+    padding: 10px;
+}
+.foot{
+    background-image: url("footerbg.jpg");
+}
+.icon{
+    color: pink;
+    padding: 10px;
+}
+.form-bg{
+    text-align: center;
+    padding: 10px;
+    border:red 5px solid;
+    background-color: bisque;
+}
